@@ -1,1 +1,3 @@
-# clase-pro-28-Axel
+# Invasion-Pirata-etapa6
+
+agregar sonidos y puntuación
